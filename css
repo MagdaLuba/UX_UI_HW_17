@@ -1,0 +1,30 @@
+
+footer {
+  background-color: #f2f2f2;
+  padding: 20px;
+  text-align: center;
+}
+
+.footer-buttons button {
+  margin: 5px;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 3px;
+  background-color: #4CAF50;
+  color: white;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+.footer-buttons button:hover {
+  background-color: #45a049;
+}
+You can place this code at the bottom of your HTML file, just before the closing </body> tag. The footer will have a light gray background color and centered text. The buttons will have a green background color, white text, and a hover effect that darkens the background color.
+
+Feel free to adjust the CSS properties, such as colors, padding, or font sizes, to match the style of your website.
+
+
+
+
+
+
